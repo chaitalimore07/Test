@@ -2,11 +2,8 @@ Good Morning
 Have a nice Day
 print(Hello Everyone)
 print(iNeuron)
-<<<<<<< HEAD
 print(line 5)
-=======
 print(line 5)
->>>>>>> 7a005fe8230f83b4ad67be9ae34cbba2841da846
-print(line10 on github)
-print(line11 on github)
-print(line12 on github)
+print(line6 on local)
+print(line7 on local)
+print(line8 on local)
